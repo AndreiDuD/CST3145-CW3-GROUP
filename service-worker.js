@@ -5,6 +5,7 @@ var cacheFiles = [
     "lessons.js",
     "petstore.webmanifest",
     "style.css",
+    "service-worker.js",
 
     "./images/english.png",
     "./images/french.png",
