@@ -1,4 +1,4 @@
-var cacheName = "petstore";
+var cacheName = "store";
 var cacheFiles = [
     "index.html",
     "products.js",
