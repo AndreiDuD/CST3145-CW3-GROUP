@@ -17,8 +17,8 @@ var cacheFiles = [
     "./images/music.png",
     "./images/sports.png",
 
-    "./images/pet-shop-icon_32.png",
-    "./images/pet-shop-icon_512.png"
+    "pet-shop-icon_32.png",
+    "pet-shop-icon_512.png"
 ];
 
 self.addEventListener("install", (e) => {
