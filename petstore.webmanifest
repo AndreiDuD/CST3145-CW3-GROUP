@@ -4,12 +4,12 @@
 "description": "online pet store PWA version",
 "icons": [
     {
-        "src": "images/pet-shop-icon_32.png",
+        "src": "./images/pet-shop-icon_32.png",
         "sizes": "32x32",
         "type": "image/png"
     },
     {
-    "src": "images/pet-shop-icon_512.png",
+    "src": "./images/pet-shop-icon_512.png",
     "sizes": "512x512",
     "type": "image/png"
     }

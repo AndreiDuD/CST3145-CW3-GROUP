@@ -6,19 +6,19 @@ var cacheFiles = [
     "petstore.webmanifest",
     "style.css",
 
-    "images/english.png",
-    "images/french.png",
-    "images/geography.png",
-    "images/gymnastics.png",
-    "images/it.png",
-    "images/italian.png",
-    "images/maths.png",
-    "images/media studies.png",
-    "images/music.png",
-    "images/sports.png",
+    "./images/english.png",
+    "./images/french.png",
+    "./images/geography.png",
+    "./images/gymnastics.png",
+    "./images/it.png",
+    "./images/italian.png",
+    "./images/maths.png",
+    "./images/media studies.png",
+    "./images/music.png",
+    "./images/sports.png",
 
-    "images/pet-shop-icon_32.png",
-    "images/pet-shop-icon_512.png"
+    "./images/pet-shop-icon_32.png",
+    "./images/pet-shop-icon_512.png"
 ];
 
 self.addEventListener("install", (e) => {
