@@ -3,7 +3,7 @@ var cacheFiles = [
     "index.html",
     "products.js",
     "lessons.js",
-    "petstore.webmanifest",
+    "store.webmanifest",
     "style.css",
     "service-worker.js",
 
@@ -18,8 +18,8 @@ var cacheFiles = [
     "./images/music.png",
     "./images/sports.png",
 
-    "pet-shop-icon_32.png",
-    "pet-shop-icon_512.png"
+    "store-icon_32.png",
+    "store-icon_512.png"
 ];
 
 self.addEventListener("install", (e) => {
