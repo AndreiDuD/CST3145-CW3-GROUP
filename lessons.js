@@ -1,4 +1,11 @@
 // Vue Object holding all the information that is displayed in the html {{}} tags
+/*new Vue({
+    el: "#app2",
+    components: {
+        "lesson-list-component": LessonComponent 
+    }
+})*/
+
 new Vue({
     el: "#app",
     data: {
