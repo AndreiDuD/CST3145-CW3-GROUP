@@ -1,11 +1,15 @@
-// Vue Object holding all the information that is displayed in the html {{}} tags
-/*new Vue({
+new Vue({
     el: "#app2",
-    components: {
-        "lesson-list-component": LessonComponent 
+    components: 
+    { "lesson-list-component": LessonComponent },
+    data() {
+        return {
+            products: products,
+        }
     }
-})*/
+})
 
+// Vue Object holding all the information that is displayed in the html {{}} tags
 new Vue({
     el: "#app",
     data: {
