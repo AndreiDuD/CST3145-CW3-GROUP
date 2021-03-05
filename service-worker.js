@@ -5,7 +5,6 @@ var cacheFiles = [
     "lessons.js",
     "store.webmanifest",
     "style.css",
-    "service-worker.js",
 
     "./images/english.png",
     "./images/french.png",
