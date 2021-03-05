@@ -1,6 +1,6 @@
 {
 "name": "Store PWA",
-"short-name": "Store",
+"short_name": "Store",
 "description": "online store PWA version",
 "icons": [
     {
